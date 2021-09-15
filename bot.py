@@ -27,6 +27,7 @@ async def help(ctx):
 	helpembed.add_field(name=".scan <scannername> <ip start range> <ip end range> <outputfile> <threads> <scandelay>", value="Uses bot server to scan for amps with desired amp")
 	helpembed.set_thumbnail(url="https://cdn.discordapp.com/attachments/865298305554317342/887566686675410954/scanboticon.png")
 	helpembed.add_field(name=".list <outputfile>", value="Sends ur fresh amp list")
+	helpembed.add_field(name=".amps", value="Shows all amp scanning options")
 	helpembed.add_field(name="Bot Made By", value="Archs#1337")
 	await ctx.send(embed=helpembed)
 	

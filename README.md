@@ -13,6 +13,10 @@ and more!
 # Sending list
 ![listingdeeznutz fam init](https://user-images.githubusercontent.com/83051653/133372918-2e4417f4-1133-4720-a589-01224a388ca7.png)
 
+# Amp List
+![ampees](https://user-images.githubusercontent.com/83051653/133384573-0126516a-bc4e-416d-bcde-8d9c62b9c587.png)
+
+
 # How to setup dis bot | ubuntu setup
 
 ```

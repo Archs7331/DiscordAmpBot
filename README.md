@@ -38,3 +38,11 @@ Your server should have Python3 installed already if its ubuntu
 ```
 screen python3 bot.py
 ```
+```
+ctrl + a + d
+```
+
+# To view screen
+```
+screen -x
+```

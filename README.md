@@ -7,7 +7,8 @@ Scan AMPS Via Discord bot
 # Scanning
 ![scanningdeeznutz](https://user-images.githubusercontent.com/83051653/133372854-e1b745e5-14ce-44ee-8cca-6627c43b5d07.png)
 
-# Sending list![listingdeeznutz fam init](https://user-images.githubusercontent.com/83051653/133372918-2e4417f4-1133-4720-a589-01224a388ca7.png)
+# Sending list
+![listingdeeznutz fam init](https://user-images.githubusercontent.com/83051653/133372918-2e4417f4-1133-4720-a589-01224a388ca7.png)
 
 # How to setup dis bot | ubuntu setup
 

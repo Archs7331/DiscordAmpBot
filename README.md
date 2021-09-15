@@ -1,5 +1,8 @@
-# DiscordAmpBot
-Scan AMPS Via Discord bot
+# DiscordAmpBot plans
+im planning on adding more featured soon such as:
+scanning on a seperate server to the bot server
+adding a proper whitelist system so you can sell the bot
+and more!
 
 # Help
 ![skeedasslilnigga](https://user-images.githubusercontent.com/83051653/133372811-6784448c-a339-4f59-b2d6-c7b69ede73a5.png)

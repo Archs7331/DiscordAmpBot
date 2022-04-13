@@ -108,8 +108,8 @@ async def info(ctx, filename):
     for i in files:
       linescount=linescount+1
  info = discord.Embed(title="**AmpBot**", description="List Info", thumbnail="https://cdn.discordapp.com/attachments/865298305554317342/887536964578992128/unknown.png",color=0xff0000, inline=False)
- info.add_field(name="IPS:", value=f"{linescount}", inline=True)
- info.add_field(name="File Name:", value=f"{filename}", inline=True)
+ info.add_field(name="IPS:", value=linescount, inline=True)
+ info.add_field(name="File Name:", value=filename, inline=True)
  info.set_thumbnail(url="https://cdn.discordapp.com/attachments/865298305554317342/887566686675410954/scanboticon.png")
  info.add_field(name="Bot Made By", value="Archs#1337 & xplode#1337")
  await ctx.send(embed=info)

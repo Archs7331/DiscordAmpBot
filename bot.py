@@ -1,4 +1,4 @@
-#shitty discord amp scanner bot by archs | @ttl.hax on insta | https://github.com/TTL-ovpn/DiscordAmpBot
+# [+] discontinued [+]
 import discord
 from discord.ext import commands
 from discord.ext import tasks
